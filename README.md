@@ -7,15 +7,7 @@
 
 A professional, lightweight **desktop application** written in Java using Swing. The **Target Grade Forecaster** helps university students determine exactly what marks they need to achieve in their Final Exams to secure their desired letter grade (e.g., A, B+, C-). By inputting their internal assessment scores (Mids, Quizzes, Assignments, CP/Project) along with their respective syllabus weightages, the system performs precise projections and validation.
 
----
 
-## 📸 User Interface Preview
-
-Below is a preview of the clean, modern user interface design for the Grade Forecaster application.
-
-![Target Grade Forecaster UI](assets/ui_preview.png)
-
----
 
 ## ✨ Key Features
 
