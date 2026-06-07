@@ -80,7 +80,7 @@ SCD-Grade-Calculator/
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/MahadBinAhmar/SCD-Grade-Calculator.git
+   git clone https://github.com/saaddev2004/GradeCalculator-SCD-Project-.git
    ```
 2. **Import/Create Project in Eclipse:**
    - Open Eclipse IDE.
@@ -148,5 +148,5 @@ The automated JUnit test cases (`GradeLogicTest.java`) cover:
 
 ## 🤝 Contributors
 
-- **Mahad Bin Ahmar** (Lead Developer)
+- **Muhammad Saad** (Lead Developer)
 - Developed as a final project for the **Software Construction & Development (SCD) Lab**, 6th Semester.
